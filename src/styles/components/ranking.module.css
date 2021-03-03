@@ -1,0 +1,106 @@
+.rankingContainer {
+  height: 100vh;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem;
+  display: flex;
+  flex-direction: column;
+  font-family: "Inter";
+}
+
+.rankingContainer h1 {
+  margin-bottom: 5rem;
+}
+
+.rankingContainer > div table {
+  width: 100%;
+  height: 100%;
+}
+
+.rankingContainer > div table thead tr {
+  width: auto;
+  height: 50px;
+  background: transparent;
+  text-align: left;
+  color: #666666;
+  opacity: 0.5;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+}
+
+.rankingContainer > div table tbody tr td {
+  background: #ffffff;
+  border-radius: 5px 0px 0px 5px;
+  color: #666666;
+  font-size: 16px;
+
+  font-style: normal;
+}
+
+.rankingContainer > div table tbody tr {
+  height: 90px;
+}
+
+.rankingContainer > div table tbody tr td > strong {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 19px;
+  margin-left: 1rem;
+  font-weight: bold;
+  margin-right: 1rem;
+
+  color: #5965e0;
+}
+
+.rankingContainer > div table tbody tr td .rackingPositionUser {
+  display: flex;
+  align-items: center;
+}
+
+.rankingContainer > div table tbody tr td .rackingPositionUser > img {
+  width: 64px;
+  height: 64px;
+  border-radius: 100px;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+.rankingContainer > div table tbody tr td .rackingPositionUser > div {
+  display: flex;
+  flex-direction: column;
+  color: #666666;
+
+  font-style: normal;
+  font-weight: normal;
+}
+
+.rankingContainer > div table tbody tr td .rackingPositionUser > div strong {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.rankingContainer > div table tbody tr td .rackingPositionUser > div span {
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.rankingContainer > div table tbody tr td .rackingPositionUser > div img {
+  width: 12.6px;
+  height: 14.56px;
+}
+
+.rankingContainer > div table tbody tr td:first-child {
+  width: 72px;
+  font-size: 25px;
+  font-weight: 500;
+  text-align: center;
+  margin-left: 1rem;
+}

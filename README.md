@@ -1,5 +1,5 @@
 ## Projeto - Clone Move.it
-- Link do projeto: [link](https://moveit-70etanlrg-andersonxss.vercel.app/) {:target="_blank"}
+- Link do projeto: (https://moveit-70etanlrg-andersonxss.vercel.app/)
 
 
 ## Tecnologias

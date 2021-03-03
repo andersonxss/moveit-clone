@@ -1,7 +1,6 @@
 ##Projeto - Clone Move.it
 
-<img align="center" src=".github/icon.svg" width="35%" alt="Move.it">
-<br>
+
 
 ## Tecnologias
 

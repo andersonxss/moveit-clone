@@ -1,5 +1,5 @@
 ## Projeto - Clone Move.it
-# Link do projeto: (https://vercel.com/andersonxss/moveit/FtZWiTyE85rfqqFc2KN4DMexhfpb)
+- Link do projeto: (https://moveit-70etanlrg-andersonxss.vercel.app/)
 
 
 ## Tecnologias
